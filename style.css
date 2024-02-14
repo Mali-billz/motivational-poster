@@ -11,6 +11,7 @@ h1 {
 .poster {
   border: solid 5px white;
   width: 100%;
+  box-shadow: 3px 2px 15px 5px #ffffff80;
 }
 
 .motivational-section {
